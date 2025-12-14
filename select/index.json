@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "namique.",
+  "base_artist": "lilbesh ramko",
+  "createdAt": "2025-12-14T06:06:05.620900Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "namique.",
+      "artist": "lilbesh ramko",
+      "has_synced": false,
+      "path": "select/pl_01_namique._lilbesh_ramko.txt"
+    }
+  ]
+}
